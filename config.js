@@ -1,1 +1,1 @@
-export const domain = 'https://10mssp.getatny.com' // 服务端域名
+﻿export const domain = 'https://example.website.com' // 服务端域名
